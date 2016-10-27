@@ -1,0 +1,4 @@
+#ifndef GLOBALEVENTHANDLER_H
+#define GLOBALEVENTHANDLER_H
+#include "keysym.h"
+#endif // GLOBALEVENTHANDLER_H
